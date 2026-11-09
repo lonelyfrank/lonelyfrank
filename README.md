@@ -1,7 +1,13 @@
 
 <div align="center">
 
-# Francesco Spina
+<a href="https://lonelyfrank.github.io/web-portfolio/">
+  <img
+    src="./assets/github-banner.png"
+    alt="Francesco Spina - Developer Portfolio"
+    width="100%"
+  />
+</a>
 
 ### Full Stack Developer | Web Applications | Creative Technology
 
