@@ -1,68 +1,188 @@
 
-# Hey, I'm Francesco Spina 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+web+apps+and+digital+tools;Creative+technology+enthusiast;Always+learning.+Always+building." alt="Animated developer introduction" />
-</p>
+# Francesco Spina
 
-## 👨‍💻 About Me
+### Full Stack Developer | Web Applications | Creative Technology
 
-I'm a developer based in Italy with professional experience in web development, including **Adobe Experience Manager (AEM)** and **WordPress**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=Building+useful+digital+experiences;Full+Stack+%26+Frontend+Development;Creative+Coding+%26+Interactive+Projects;Always+Learning.+Always+Building." alt="Animated introduction" />
 
-I enjoy turning ideas into practical applications, combining development, interface design and experimentation.
+<br/>
 
-- 💻 Focused on full-stack and frontend development
-- 🛠️ Building web apps, interactive experiences and digital tools
-- 🎮 Interested in game development and creative coding
-- 🌱 Constantly exploring new technologies
-- 🔎 Open to software development opportunities
+[![Portfolio](https://img.shields.io/badge/Interactive_Portfolio-Explore_My_World-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lonelyfrank.github.io/web-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Repositories-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lonelyfrank?tab=repositories)
 
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript · TypeScript · PHP · HTML · CSS · SQL
-
-**Frontend:** React · Vue · Next.js · Tailwind CSS
-
-**Backend:** Node.js · Laravel · REST APIs · MySQL
-
-**CMS:** Adobe Experience Manager · WordPress · WooCommerce
-
-**Tools:** Git · GitHub · Docker · Playwright · Linux · Cloudflare
-
-**Creative:** Godot · Three.js
-
-## 🚀 Featured Projects
-
-### 🎯 [BT Darts Scoreboard](https://github.com/lonelyfrank/BT-score-board)
-A digital scoreboard companion for a physical darts machine, featuring different game modes, score tracking and intuitive interactions.
-
-[Live Demo](https://bt-score-board.vercel.app) · [Repository](https://github.com/lonelyfrank/BT-score-board)
-
-### 📚 [Sensei Learning](https://github.com/lonelyfrank/sensei-learning)
-A learning-focused application exploring digital educational experiences.
-
-[Repository](https://github.com/lonelyfrank/sensei-learning)
-
-### 🔗 [Cable](https://github.com/lonelyfrank/cable)
-Exploring seamless cross-device file sharing through local networks.
-
-[Repository](https://github.com/lonelyfrank/cable)
-
-### 🕹️ [Web Portfolio](https://github.com/lonelyfrank/web-portfolio)
-An interactive pixel-art portfolio featuring animated environments, playful navigation and creative frontend engineering.
-
-[Live Experience](https://lonelyfrank.github.io/web-portfolio/) · [Repository](https://github.com/lonelyfrank/web-portfolio)
-
-### 🚓 [Cops & Robbers](https://github.com/lonelyfrank/cops-robbers)
-An interactive game development project exploring gameplay and programming.
-
-[Repository](https://github.com/lonelyfrank/cops-robbers)
-
-## 🌐 Let's Connect
-
-[🌍 Interactive Portfolio](https://lonelyfrank.github.io/web-portfolio/) · [💻 GitHub](https://github.com/lonelyfrank)
+</div>
 
 ---
 
-<p align="center"><i>Always learning. Always building.</i></p>
+## Interactive Portfolio
+
+**My portfolio isn't just a website. It's a world you can explore.**
+
+I created an interactive pixel-art experience where visitors can discover my background, technical skills and projects through animated environments, playful navigation and a unique visual identity.
+
+The experience combines traditional web development with creative coding, sprite animation and interactive storytelling.
+
+<div align="center">
+
+### [ENTER MY PORTFOLIO](https://lonelyfrank.github.io/web-portfolio/)
+
+[Live Experience](https://lonelyfrank.github.io/web-portfolio/) | [Source Code](https://github.com/lonelyfrank/web-portfolio)
+
+</div>
+
+---
+
+## About Me
+
+I'm a developer based in **Italy**, with professional experience in web development, particularly with **Adobe Experience Manager (AEM)** and **WordPress**.
+
+My interests go beyond traditional websites. I enjoy creating complete applications, experimenting with user interfaces and exploring how different technologies can work together.
+
+I approach development with curiosity and a practical mindset, moving from initial concepts to working prototypes and functional products.
+
+**What I focus on:**
+
+- **Web Development** — Responsive interfaces and modern web applications.
+- **Full Stack Development** — Frontend, backend, APIs and data management.
+- **Creative Coding** — Interactive experiences, animations and game development.
+- **Software Engineering** — Architecture, testing and maintainable solutions.
+- **Digital Problem Solving** — Building tools that address real needs.
+
+**Currently open to opportunities in frontend, full-stack and software development.**
+
+---
+
+## Tech Stack
+
+### Languages & Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js and Tailwind CSS" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,sqlite&theme=dark" alt="Node.js, PHP, Laravel, MySQL and SQLite" />
+</p>
+
+### Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,cloudflare,vercel&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Cloudflare and Vercel" />
+</p>
+
+### Creative & Desktop Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,threejs,electron,tauri,rust&theme=dark" alt="Godot, Three.js, Electron, Tauri and Rust" />
+</p>
+
+### CMS & Professional Experience
+
+**Adobe Experience Manager (AEM)** · **WordPress** · **WooCommerce**
+
+### Additional Tools
+
+Playwright · REST APIs · Jira · SSH · GitHub Actions
+
+---
+
+## Featured Projects
+
+A selection of projects that represent my interests in software development, interactive design and building real applications.
+
+### BT Darts Scoreboard
+
+**Mobile-first darts scoreboard & tournament management**
+
+A web application designed to complement a physical Pub Time Darts machine from 1987.
+
+Supports multiple game modes, player management, tournament organization, statistics and match history, with local-first functionality and optional shared modes.
+
+**Focus:** Web Applications · Game Logic · Data Management · Mobile UX
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Application-2563EB?style=flat-square)](https://bt-score-board.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-Source_Code-30363D?style=flat-square&logo=github)](https://github.com/lonelyfrank/BT-score-board)
+
+### Sensei Learning
+
+**Desktop runner for AI-generated interactive experiences**
+
+A desktop application built with Electron and React to load and run interactive JSX artifacts generated by AI assistants.
+
+Supports structured learning paths, standalone interactive content, progress tracking and gamification.
+
+**Focus:** Electron · React · Desktop Applications · Interactive Learning
+
+[![Repository](https://img.shields.io/badge/Repository-Source_Code-30363D?style=flat-square&logo=github)](https://github.com/lonelyfrank/sensei-learning)
+[![Releases](https://img.shields.io/badge/Releases-Downloads-2563EB?style=flat-square)](https://github.com/lonelyfrank/sensei-learning/releases)
+
+### Cable
+
+**Local file sharing between Linux and mobile devices**
+
+A Linux desktop application developed with Rust and Tauri 2, designed to exchange files with Android and iOS devices using the LocalSend v2 protocol.
+
+Explores local networking, device discovery and cross-device interoperability without requiring cloud storage.
+
+**Focus:** Rust · Tauri · Networking · Desktop Development
+
+[![Repository](https://img.shields.io/badge/Repository-Source_Code-30363D?style=flat-square&logo=github)](https://github.com/lonelyfrank/cable)
+
+### Web Portfolio
+
+**An interactive, playable developer portfolio**
+
+My personal portfolio built as a pixel-art world, featuring animated characters, environmental interactions and interactive project showcases.
+
+Includes an immersive journey mode and an accessible reading mode for smaller devices.
+
+**Focus:** JavaScript · CSS · Animation · Interactive UI · Creative Coding
+
+[![Live Experience](https://img.shields.io/badge/Live_Experience-Explore_Portfolio-7C3AED?style=flat-square)](https://lonelyfrank.github.io/web-portfolio/)
+[![Repository](https://img.shields.io/badge/Repository-Source_Code-30363D?style=flat-square&logo=github)](https://github.com/lonelyfrank/web-portfolio)
+
+### Cops & Robbers
+
+**Browser-based interactive voxel game**
+
+A playable browser experience developed with JavaScript, Vite and Three.js.
+
+Features a stylized voxel city, modular environments, animated chases, different difficulty levels and a surveillance-inspired interface.
+
+**Focus:** JavaScript · Three.js · Game Logic · Voxel Environments
+
+[![Repository](https://img.shields.io/badge/Repository-Source_Code-30363D?style=flat-square&logo=github)](https://github.com/lonelyfrank/cops-robbers)
+
+---
+
+## My Approach
+
+I believe the best way to grow as a developer is to keep building.
+
+I enjoy experimenting with different technologies, understanding how systems work and transforming ideas into functional experiences.
+
+My projects span different fields, but share the same goal: **creating software that is useful, engaging and thoughtfully designed.**
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+Interested in my work, a collaboration or a development opportunity?
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lonelyfrank.github.io/web-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lonelyfrank?tab=repositories)
+
+<br/>
+
+**Always learning. Always building.**
+
+</div>
   
